@@ -20,4 +20,4 @@ Landing page responsiva desenvolvida para barbearias.
 
 Link do projeto   ## Demo
 
-https://barbearia-dev-naldo.netlify.app
+https://barber-premium-site.netlify.app/
